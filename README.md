@@ -9,4 +9,4 @@
 - 🔭 I’m 2rd year graduate student of [School of Artificial Intelligence](http://ai.nju.edu.cn/) in [Nanjing University](http://www.nju.edu.cn/) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx).
 - 🌱 I’m currently focusing on Offline RL and Model-based RL.
 - 📫 Feel free to contact me by [Email](sunyh@lamda.nju.edu.cn).
-- More information please visit my [Homepage](http://www.lamda.nju.edu.cn/sunyh/).
+- More information please visit my [Homepage](www.yihaosun.cn).
